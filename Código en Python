@@ -1,0 +1,7 @@
+P1 = input('Ingrese una palabra sustantiva de cualquier género.')
+P2 = input('Ingrese una palabra sustantivo plural femenino.')
+P3 = input('Ingrese una palabra adjetivo masculino.')
+P4 = input('Ingrese una palabra sustantivo singular femenino.')
+P5 = input('Ingrese una palabra sustantivo singular femenino.')
+
+print('La lasaña es un tipo de ',P1,'. Se suele servir en ',P2,' intercaladas con capas de ingredientes al gusto, más frecuentemente ',P3,' en salsa boloñesa y bechamel. Su origen es ',P4,' y el plato preparado usualmente con carne suele llamarse ',P5)
